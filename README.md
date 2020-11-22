@@ -13,9 +13,12 @@ If you like this project, please star this repository.🌟
 `git clone https://github.com/Aadityajoshi151/Facets-Wallpaper-Downloader.git`
 
 **Step 2)** Open a command prompt in the project directory. Enter the command:
+`pip install -r requirements.txt`
+
+**Step 3)** Enter the command:
 `python master.py`
 
-**Step 3)** Enter "`y`" when prompted.
+**Step 4)** Enter "`y`" when prompted.
 ## ✒️ Additional Notes:
 - Total size of downloaded wallpapers is 175 MB on 22 November 2020. Might change in future depending on the availability of the download links.
 - Time taken depends on the internet speed obviously. Variable for everyone.
