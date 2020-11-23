@@ -9,16 +9,18 @@ If you like this project, please star this repository.🌟
 ## 🔨 How To Use:
 **Step 0)** Install Python. Click [here](https://www.python.org/downloads/ "here") to go to the official downloads page.
 
-**Step 1)** Clone this repository by using the command:
+**Step 1)** Make sure google chrome is updated to the latest version.
+
+**Step 2)** Clone this repository by using the command:
 `git clone https://github.com/Aadityajoshi151/Facets-Wallpaper-Downloader.git`
 
-**Step 2)** Open a command prompt in the project directory. Enter the command:
+**Step 3)** Open a command prompt in the project directory. Enter the command:
 `pip install -r requirements.txt`
 
-**Step 3)** Enter the command:
+**Step 4)** Run the bot by typing:
 `python master.py`
 
-**Step 4)** Enter "`y`" when prompted.
+**Step 5)** Enter "`y`" when prompted.
 ## ✒️ Additional Notes:
 - Total size of downloaded wallpapers is 175 MB on 22 November 2020. Might change in future depending on the availability of the download links.
 - Time taken depends on the internet speed obviously. Variable for everyone.
