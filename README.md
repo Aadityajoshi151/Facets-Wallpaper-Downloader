@@ -17,7 +17,7 @@ If you like this project, please star this repository.🌟
 **Step 3)** Open a command prompt in the project directory. Enter the command:
 `pip install -r requirements.txt`
 
-**Step 4)** Run Facets_Wallpaper_Downloader.exe or type `python master.py` in the command prompt.
+**Step 4)** Run "Facets_Wallpaper_Downloader.exe" or type `python master.py` in the command prompt.
 
 **Step 5)** Enter "`y`" when prompted.
 ## ✒️ Additional Notes:
