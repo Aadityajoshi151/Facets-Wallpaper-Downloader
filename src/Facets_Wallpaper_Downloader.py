@@ -17,7 +17,7 @@ while(True):
         break
     elif choice.lower() == "n":
         quit()
-driver_path = "WebDriver/chromedriver.exe"
+driver_path = "../WebDriver/chromedriver.exe"
 driver = webdriver.Chrome(executable_path = driver_path)
 
 if not os.path.isdir(f"{dir}\\Images"):
