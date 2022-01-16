@@ -3,7 +3,7 @@ from datetime import datetime
 import wget
 import time
 import os
-
+dir = os.path.dirname(__file__)
 
 print("""
 This bot is designed by Aaditya Joshi (https://github.com/Aadityajoshi151).
@@ -20,7 +20,8 @@ while(True):
 driver_path = "WebDriver/chromedriver.exe"
 driver = webdriver.Chrome(executable_path = driver_path)
 
-os.mkdir("Images")
+if not os.path.isdir(f"{dir}\\Images"):
+    os.mkdir("Images")
 starttime = datetime.now()
 driver.get("http://www.facets.la/2013/1/")
 for i in range(1,365):
